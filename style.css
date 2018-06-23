@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,700,900');
 
 *::selection{
   color: white;
@@ -95,4 +95,10 @@ article.expanded .content{
 
 .biases{
   background-color: lime;
+}
+
+.main-title{
+  font-weight: 900;
+  font-size: 10rem;
+  margin: -30px 0px;
 }
