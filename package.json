@@ -1,0 +1,23 @@
+{
+  "name": "good-links",
+  "version": "1.0.0",
+  "description": "Good links for anything in life",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "mustache data.json index.mustache > public/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehrax/good-links.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dehrax/good-links/issues"
+  },
+  "homepage": "https://github.com/dehrax/good-links#readme",
+  "devDependencies": {
+    "mustache": "^2.3.0"
+  }
+}

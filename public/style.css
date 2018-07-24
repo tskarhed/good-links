@@ -8,12 +8,12 @@
 body{
   font-family: Roboto, sans-serif
 }
-a, a:visited{
+.article__title, .article__title:visited{
   color: inherit;
   text-decoration: none;
 }
 
-a:before{
+.article__title:before{
   font-family: 'Font Awesome 5 Free';
   content: '\f0c1';
   opacity: 0.5;
@@ -21,11 +21,11 @@ a:before{
   vertical-align: middle;
   margin-right: 3px;
 }
-a:hover:before{
+.article__title:hover:before{
   opacity: 1;
 }
 
-article{
+.article{
   cursor: pointer;
   box-shadow: 0 0 5px #999;
   border-radius: 3px;
@@ -43,26 +43,26 @@ article{
   /*animation: expand-animation 0.3s backwards;*/
 }
 
-article.half-expanded{
+.article.half-expanded{
   width: 500px;
   max-height: 250px;
 }
 
-article.expanded{
+.article.expanded{
   /*animation: expand-animation 0.3s forwards;*/
   width: 500px;
   max-height: 1000px;
 }
 
-.intro{
+.article__intro{
   font-style: italic;
 }
 
-article .content{
+.article__content{
   opacity: 0;
   transition: opacity 0.2s;
 }
-article.expanded .content{
+.article.expanded .article__content{
   opacity: 1;
 }
 
@@ -80,19 +80,19 @@ article.expanded .content{
 */
 
 
-.team{
+[data-category=team]{
   background-color: green;
 }
 
-.learning{
+[data-category=learning]{
   background-color: orange;
 }
 
-.execution{
+[data-category=execution]{
   background-color: pink;
 }
 
-.biases{
+[data-category=biases]{
   background-color: lime;
 }
 

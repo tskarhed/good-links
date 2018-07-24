@@ -1,0 +1,17 @@
+{
+	"posts":[
+		{
+			"title": "Hyper Island Toolbox",
+			"cat": "team",
+			"url": "http://toolbox.hyperisland.com/",
+	    	"intro": "<p>Contains facilitation guidelines for ideation, team building and self assesment.</p>",
+	    	"content": "<p>Hyper Island enables companies and individuals to develop, grow and rise to the challenges of tomorrow's transformative technology.</p>"
+		},
+		{
+			"title": "Slow Down - Getting More out of Harvard by Doing Less",
+			"cat": "learning",
+			"url": "http://scholar.harvard.edu/files/harrylewis/files/slowdown2004.pdf",
+			"intro": "<p>by Harry R Lewis (Dean of Harvard College). Recognize who you are, and do not rush things. Do not take anyone's advice.</p>",
+			"content": "<blockquote>Presidents, deans, and professors rarely tell students simple truths, for example that the strategizing and diligence that got them into the college of their choice may not, if followed thoughtlessly, lead to an adult life they will find worth living.<br/><br/>-Harry R. Lewis</blockquote>"
+		}]
+}
