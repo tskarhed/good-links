@@ -1,6 +1,6 @@
 # good-links
-Start with running ``npm run install`.
+Start with running `npm run install`.
 
 Add new links by adding input to `data.json`, then run ``npm run build`
 
-If you want to edit the HTML, edit `ìndex.mustache`. CSS and JS files can be edited in the /public folder.
+If you want to edit the HTML, edit `ìndex.mustache`.
