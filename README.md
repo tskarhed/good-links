@@ -1,6 +1,9 @@
-# good-links
-Start with running ``npm run install`.
+# good-links [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 
-Add new links by adding input to `data.json`, then run ``npm run build`
+Start with running `npm run install`.
 
-If you want to edit the HTML, edit `ìndex.mustache`. CSS and JS files can be edited in the /public folder.
+Add new links by adding input to `data.json`.
+
+If you want to edit the HTML, edit `ìndex.mustache`.
+
+After doing some kind of edit, run `npm run build`.
