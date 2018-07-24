@@ -5,7 +5,8 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "mustache data.json index.mustache > index.html"
+    "build": "mustache data.json index.mustache > index.html",
+    "dev": "watch \"npm run build\" ./"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/dehrax/good-links#readme",
   "devDependencies": {
-    "mustache": "^2.3.0"
+    "mustache": "^2.3.0",
+    "watch": "^1.0.2"
   }
 }
