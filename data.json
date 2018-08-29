@@ -13,5 +13,47 @@
 			"url": "http://scholar.harvard.edu/files/harrylewis/files/slowdown2004.pdf",
 			"intro": "<p>by Harry R Lewis (Dean of Harvard College). Recognize who you are, and do not rush things. Do not take anyone's advice.</p>",
 			"content": "<blockquote>Presidents, deans, and professors rarely tell students simple truths, for example that the strategizing and diligence that got them into the college of their choice may not, if followed thoughtlessly, lead to an adult life they will find worth living.<br/><br/>-Harry R. Lewis</blockquote>"
-		}]
+		},
+		{
+			"title": "Bullet Journaling",
+			"cat": "execution",
+			"url": "http://bulletjournal.com/get-started/",
+			"intro": "<p>A journaling system which only requires a pen and any notebook. Very customizable for your own needs.</p>"
+		},
+		{
+			"title": "Test Checklist by Dr. Richard Felder",
+			"cat": "learning",
+			"url": "http://www4.ncsu.edu/unity/lockers/users/f/felder/public/Columns/memo.pdf",
+			"intro": "<p>Do you think you deserve a better grade on the test? I would argue that if you do not fill the checklist, you have no reason to get a better grade; you would fool nobody but yourself.</p>",
+			"content": "<p>The question 'How should I prepare for the test' becomes easy once you've filled out the checklist.<br/>The answer is...<br/>Do whatever it takes to be able to answer 'Yes' to most of the questions.</p>"
+		},
+		{
+			"title": "Study Tactics from Cal Newport",
+			"cat": "learning",
+			"url": "https://www.youtube.com/watch?v=ppvVsSQa9gc",
+			"intro": "<p>Practice active recall - do not simply look things up. Experiment with different types of study tactics. Clear your svhedule, stop being busy.</p>",
+			"content": "<p>Cal Newport is a professor at Georgtown. He is the author of the Study Hacks blog and has written several books on study techniques and work, such as 'Deep Work' and 'So good they can't ignore you'."
+		},
+		{
+			"title": "Cognitive Bias Codex",
+			"cat": "biases",
+			"url": "https://www.ericgarland.co/wp-content/uploads/pix/2016/09/Master-Map-Cognitive-Bias.jpeg",
+			"intro": "<p>A map of common biases, which is categorized into 'Too Much Information', 'Need To Act Fast', 'Not Enough Meaning' and 'What Should We Remember?'</p>",
+			"content": "<p>To further deep dive into these biases, have a look at Wikipedia</p>"
+		},
+		{
+			"title": "Dunning Kruger Effect",
+			"cat": "biases",
+			"url": "https://rowanfreepress.com/2013/11/26/dunning-kruger-effect-when-distorted-self-perception-and-illusions-of-superiority-trick-entertainers-politicians-and-cities/",
+			"intro": "<p>Inflated self-perception, to think oneself greater than the objective truth. Failure to recognize genuine skill in others.</p>",
+			"content": "<p>For the opposite, see Impostor syndrome.</p>"
+		},
+		{
+			"title": "The 7 habits of highly effective artists",
+			"cat": "learning",
+			"url": "https://www.youtube.com/watch?v=vM39qhXle4g",
+			"intro": "<p>Andrew Price tries to become a good artist. He figures out habits which are paramount for quick learning and imporvement.</p>",
+			"content": "<ul><li>Be specific of what you want to learn</li><li>Practice actively - No multitasking/doodling</li><li>Find sources of inspiration</li><li>Have a loss averse incentive, i.e. take 'damage' if you fail to complete a goal</li><li>60% of the time teaches you the most and covers 90% of the work; the last 40% is just perfection and does not produce a lot.</li></ul>"
+		}
+]
 }
