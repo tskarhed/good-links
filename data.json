@@ -56,8 +56,36 @@
 			"content": "<ul><li>Be specific of what you want to learn</li><li>Practice actively - No multitasking/doodling</li><li>Find sources of inspiration</li><li>Have a loss averse incentive, i.e. take 'damage' if you fail to complete a goal</li><li>60% of the time teaches you the most and covers 90% of the work; the last 40% is just perfection and does not produce a lot.</li></ul>"
 		},
 		{
+			"title": "Rapid prototyping with the Pomodoro technique",
+			"cat": "learning",
+			"url": "https://webdesign.tutsplus.com/articles/quick-tip-pomodoro-technique-to-the-creative-rescue--webdesign-14154",
+			"intro": "<p>Set a timer for 30 min, take a 5 min break. This specific article explains how to use this technique for web design.</p>",
+			"content": "<p>The Pomodoro technique is great when learning new things too!</p>"
+		},
+		{
+			"title": "Google Five keys to a successful team",
+			"cat": "team",
+			"url": "https://medium.com/the-mission/why-is-genuine-teamwork-elusive-f800b408926e",
+			"intro": "Psychological safety, dependability, structure & clarity, meaning, impact.</p>",
+			"content": ""
+		},
+		{
+			"title": "Create deep trust within a team",
+			"cat": "team",
+			"url": "https://medium.com/the-mission/why-is-genuine-teamwork-elusive-f800b408926e",
+			"intro": "<p>Say what you think and allow conflicts as often as necessary.</p>",
+			"content": ""
+		},
+		{
+			"title": "Google Design Sprint Kit",
+			"cat": "team",
+			"url": "https://designsprintkit.withgoogle.com/",
+			"intro": "<p>Resource for design sprints. Contains icebreakers, double (tripple) diamond design process and facilitation techniques.</p>",
+			"content": "<p>Can be used for</p><ul><li>Product innovation</li><li>Team building</li><li>Design process</li></ul>"
+		},
+		{
 			"title": "TIN EYE: Reverse Image Search",
-			"cat": "Website",
+			"cat": "Learning",
 			"url": "https://www.tineye.com/",
 			"intro": "<p>Search by image and find where that image appears online.</p>",
 			"content": "<p> This website is the best for reverse image searching, it easily helps us in finding the source of the image uploaded."
