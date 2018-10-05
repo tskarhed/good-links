@@ -54,6 +54,20 @@
 			"url": "https://www.youtube.com/watch?v=vM39qhXle4g",
 			"intro": "<p>Andrew Price tries to become a good artist. He figures out habits which are paramount for quick learning and imporvement.</p>",
 			"content": "<ul><li>Be specific of what you want to learn</li><li>Practice actively - No multitasking/doodling</li><li>Find sources of inspiration</li><li>Have a loss averse incentive, i.e. take 'damage' if you fail to complete a goal</li><li>60% of the time teaches you the most and covers 90% of the work; the last 40% is just perfection and does not produce a lot.</li></ul>"
+		},
+		{
+			"title": "Mental Health and how it is defined",
+			"cat": "learning",
+			"url": "https://www.mentalhealth.gov/basics/what-is-mental-health",
+			"intro": "<p>As we work away, it is important to remember that our mental health is still part of our health. Look into it here.</p>",
+			"content": "<p>The government has created this website to help others know what signs to look for within themselves that signify mental health deterioration. These feelings can lead to violence or self-harm. It is important to recognize things things within yourself so you can use tactics from this website to help yourself get better.</p>"
+		},
+		{
+			"title": "GitHub Shop!",
+			"cat": "learning",
+			"url": "hhttps://github.myshopify.com/",
+			"intro": "<p>Everyone's favorite open-source platform has THINGS!</p>",
+			"content": "<p>Represent GitHub to the outside world with t-shirts, hoodies, water bottles, stickers, and more! Share your love of coding with the world.</p>"
 		}
 ]
 }
