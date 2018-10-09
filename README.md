@@ -8,7 +8,7 @@ Start with running `npm install`.
 
 To start developing and watch for file changes with `npm run dev`.
 
-__ALL FILES NOT MENTIONED HERE ARE THERE FOR HISTORICAL PURPOSES.__ There are still certain links in those files which need to be added to `data.json`.
+__ALL FILES NOT MENTIONED HERE ARE THERE FOR HISTORICAL PURPOSES.__ 
 
 ### Add links
 
