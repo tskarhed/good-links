@@ -37,6 +37,14 @@ var categories = [
 	color: 'black',
 	short: 'marketing',
 	desc: 'General tips for marketing.'
+},
+// Self-Growth
+{
+	title:'Self Growth',
+	bgColor: 'darkblue',
+	color: 'white',
+	short: 'self-growth',
+	desc: 'General tips for self growthing'
 }
 ];
 

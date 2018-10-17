@@ -79,9 +79,23 @@
 		{
 			"title": "Google Design Sprint Kit",
 			"cat": "team",
-			"url": "ttps://designsprintkit.withgoogle.com/",
+			"url": "https://designsprintkit.withgoogle.com/",
 			"intro": "<p>Resource for design sprints. Contains icebreakers, double (tripple) diamond design process and facilitation techniques.</p>",
 			"content": "<p>Can be used for</p><ul><li>Product innovation</li><li>Team building</li><li>Design process</li></ul>"
+		},
+		{
+			"title": "77 Important Truths I’ve Learned About Life",
+			"cat": "self-growth",
+			"url": "https://medium.com/personal-growth/77-important-truths-ive-learned-about-life-2476f940f12d",
+			"intro": "<p>A good compilation of life learnings, in a simple and impressive way</p>",
+			"content": "<p>Read and remember to take the best of the vision of those who have already learned something good or bad with life</p>"
+		},
+		{
+			"title": "The Not-To-Do List: 9 Habits to Stop Now",
+			"cat": "self-growth",
+			"url": "https://medium.com/@timferriss/not-to-do-lists-are-often-more-effective-than-to-do-lists-for-upgrading-performance-ec26c4417019",
+			"intro": "<p>A list of some habits that do not help us that much</p>",
+			"content": "<p>“Not-to-do” lists are often more effective than to-do lists for upgrading performance.</p>"
 		}
 ]
 }
